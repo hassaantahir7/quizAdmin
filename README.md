@@ -9,12 +9,12 @@ Task management: Perform various tasks such as adding new quiz questions, updati
 Immediate updates: Any changes made to the database are immediately reflected in the admin panel, ensuring that administrators have the most up-to-date information available.
 Deletion of data: The codebase enables deletion of quiz questions or user information, providing administrators with a powerful tool to manage their data effectively.
 
-#Getting Started
+# Getting Started
 To get started with using the admin panel, follow these steps:
-Clone the repository to your local machine.
-Install any dependencies required by the codebase.
-Configure the database connection settings.
-Launch the admin panel and begin managing your quiz mobile app!
+ - Clone the repository to your local machine.
+ - Install dependencies required by the codebase.
+ - Configure the database connection settings.
+ - Launch the admin panel and begin managing your quiz mobile app!
 
 # Requirements
   - Node.js (version X or higher),
